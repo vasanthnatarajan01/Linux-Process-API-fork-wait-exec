@@ -2,6 +2,8 @@
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
 Operating systems Lab exercise
+## NAME: VASANTH N
+## REG.NO : 212224110060
 
 
 # AIM:
